@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "lectureDays": "sdasd'",
+            "lectureTiming": "asdad",
+            "endDate": "asdasda",
+            "name": "add",
+            "startDate": "adad"
+        },
+        {
+            "lectureDays": "dssds",
+            "lectureTiming": "",
+            "endDate": "sdsd",
+            "name": "fsafs",
+            "startDate": "dad"
+        }
+    ],
+    "studentNumber": 37217353,
+    "name": "Soham"
+}

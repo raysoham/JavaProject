@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "lectureDays": "Monday, Tuesday",
+            "lectureTiming": "12:00 to 2:00",
+            "endDate": "21/21/21",
+            "name": "CPSC 110",
+            "startDate": "12/12/12"
+        },
+        {
+            "lectureDays": "Monday, Wednesday",
+            "lectureTiming": "34:00 to 23:00",
+            "endDate": "23/23/23",
+            "name": "ASTR 101",
+            "startDate": "34/34/34"
+        }
+    ],
+    "studentNumber": 12345678,
+    "name": "Soham Ray"
+}
