@@ -19,4 +19,8 @@ already existed as an application, but it didn't. So I thought I
 will make it and in the future no one will have to struggle with
 keeping a track of all their courses.
 
+## To start
+
+- Clone this repo, go to src/main/ui/Main.java and run
+
 
